@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/slavyanHristov/restaurant-table-reservation-system/blob/feature/readme/screenshots/rtrs.png" width="300" />
+<img src="https://github.com/shubhrocks21/restaurant-table-reservation-system/blob/feature/readme/screenshots/rtrs.png" width="300" />
 <br>
 Restaurant Table Reservation System - RTRS
 <br>
@@ -70,13 +70,7 @@ The UI/UX Design is built by the help of [Figma](https://figma.com/)
 ## Extra
 The UI/UX Design can be found here:
 * [RTRS-FIGMA-PROJECT](https://www.figma.com/file/Rpx13QhhGTYX2fAHnXs4XR/restaurant-reservation-ui%2Fux-v1.0?node-id=2%3A35)
-
-Readme files introducing the developed project:
-* [Front-end README](https://github.com/slavyanHristov/restaurant-table-reservation-system/blob/feature/readme/front-end/README.md)
-* [Back-end README](https://github.com/slavyanHristov/restaurant-table-reservation-system/blob/feature/readme/back-end/README.md)
-  
-YouTube video diplaying the end-product of the project: 
-* [Link](https://www.youtube.com/watch?v=E2CjHID9dfs)
+* 
 
 ## Ideas For Future Development
 

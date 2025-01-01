@@ -92,6 +92,5 @@ YouTube video diplaying the end-product of the project:
 
  ---
 
- > GitHub [@slavyanHristov](https://github.com/slavyanHristov) &nbsp;&middot;&nbsp;
- > Gmail slavqnhristov@gmail.com &nbsp;&middot;&nbsp;
- > ABV slavqn99@abv.bg (for bulgarian audience)
+ > GitHub (github.com/shubhrocks21) 
+ > Gmail jani.shubham21@gmail.com 
